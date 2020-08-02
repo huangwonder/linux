@@ -61,7 +61,7 @@ first part `marked part` end part
 ##插入图片
 \!\[链接文字](链接网址 "标题")
 ![socket domains](linux_programming_interface/socket/socket_domains.jpg)
-![socket link](https://github.com/huangwonder/pictures/blob/master/socket_domains.jpg)
+![socket link](https://github.com/huangwonder/linux/raw/master/linux_programming_interface/socket/socket_domains.jpg)
 
 
 
